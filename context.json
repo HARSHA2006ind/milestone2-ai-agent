@@ -1,0 +1,9 @@
+{
+  "project": "AI Agent",
+  "description": "A small AI agent that uses tools to answer questions from supplied context.",
+  "requirements": [
+    "Use a couple of tool functions",
+    "Avoid unsupported answers",
+    "Check repeatability"
+  ]
+}
